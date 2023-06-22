@@ -2,7 +2,7 @@
 -- import: fastn
 -- import: fastn/processors as pr
 -- import: fifthtry.github.io/color-doc as cd
--- import: <user_name>.github.io/<repo_name>/colors
+-- import: priyanka9634.github.io/suspicous/colors
 
 -- string figma-json:
 $processor$: pr.figma-cs-token
